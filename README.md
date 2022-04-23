@@ -4,7 +4,7 @@
 
 Una política de privacidad es una descripción de lo que usted hace con los datos personales. Lo más importante que hay que describir en la política es cómo usted y su sitio web o aplicación recopilan, utilizan, almacenan y comparten o divulgan información sobre las personas. Proporcionar una política de privacidad también ayuda a sus usuarios a entender lo que ocurre con la información sobre ellos.
 
-**Note:** Una política de privacidad no es lo mismo que un acuerdo de términos y condiciones. Los términos y condiciones son el acuerdo en el que se incluyen las normas y directrices que los usuarios deben aceptar para utilizar su sitio web o aplicación.
+**Nota:** Una política de privacidad no es lo mismo que un acuerdo de términos y condiciones. Los términos y condiciones son el acuerdo en el que se incluyen las normas y directrices que los usuarios deben aceptar para utilizar su sitio web o aplicación.
 
 ## Política de privacidad
 
